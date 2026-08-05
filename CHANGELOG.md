@@ -1,2 +1,2 @@
-# 1.7.5 Release
-- Fixed chesnaughtite, chimechite and chandelurite porting to MSD
+# 1.7.5 Release-hotfix
+- Fixed crash
